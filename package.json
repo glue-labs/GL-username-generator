@@ -1,0 +1,21 @@
+{
+  "name": "gl-username-generator",
+  "version": "0.0.1",
+  "description": "npm module to generate random username from words of length 4,5 characters and radom numbers between  ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glue-labs/username-generator.git"
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "username",
+    "generator",
+    "alphanumeric"
+  ],
+  "author": "bipinchandratripathi@gmail.com",
+  "license": "ISC"
+}
