@@ -1,7 +1,11 @@
 # gl-username-generator
 
 npm module to generate random username from words of length 4,5 characters and radom numbers between 0-100 
- 
+
+## install
+
+`npm install --save username-generator`
+
 ## features
 
 * Generate meaningful and readable username
@@ -120,10 +124,6 @@ shopsrolls72
 tracysagem33
 bankspolar48
 ```
-
-# install
-
-`npm install --save username-generator`
 
 ## credits
 
